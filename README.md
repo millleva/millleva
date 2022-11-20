@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">Software Engineering Student</h3>
+
+- 📫 Reach me on [Telegram](https://t.me/milllennium), [E-Mail](mailto:kochevamilenazp@gmail.com)
