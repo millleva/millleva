@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h3 align="center">Software Engineering Student</h3>
 
-- 📫 Reach me on [Telegram](https://t.me/milllennium), [E-Mail](mailto:kochevamilenazp@gmail.com)
+- 📫 Reach me on [Telegram](https://t.me/milllennium), [E-Mail](mailto:milenakochevauni@gmail.com)
